@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures":
+  {
+    "layer0": "examplemod:items/green_apple_skittles"
+  }
+}

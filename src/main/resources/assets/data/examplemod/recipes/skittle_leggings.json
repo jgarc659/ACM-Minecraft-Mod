@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "x x",
+    "xx ",
+    " xx",
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "examplemod:skittles"
+    }
+  },
+  "result":
+  {
+    "item": "examplemod:skittle_leggings",
+    "count": 1
+  }
+}

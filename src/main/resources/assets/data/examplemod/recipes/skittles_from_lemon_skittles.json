@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "examplemod:lemon_skittles"
+    },
+    {
+      "item": "examplemod:lemon_skittles"
+    },
+    {
+      "item": "examplemod:lemon_skittles"
+    }
+  ],
+  "result":
+  {
+    "item": "examplemod:skittles",
+    "count": 1
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "itemGroup.acmTab": "ACM",
+  "item.examplemod.phone": "Phone",
+  "item.examplemod.laptop": "Laptop",
+  "item.examplemod.guitar": "Guitar",
+  "item.examplemod.acm_logo": "ACM Logo",
+
+  "block.examplemod.skittles_block" : "Skittles Ore",
+
+  "item.examplemod.green_apple_skittles": "Green Apple Skittles",
+  "item.examplemod.strawberry_skittles": "Strawberry Skittles",
+  "item.examplemod.grape_skittles": "Grape Skittles",
+  "item.examplemod.lemon_skittles": "Lemon Skittles",
+  "item.examplemod.orange_skittles": "Orange Skittles",
+
+  "item.examplemod.skittles" : "Skittles",
+
+  "item.examplemod.skittles_sword" : "Skittles Sword",
+  "item.examplemod.skittles_shovel" : "Skittles Shovel",
+  "item.examplemod.skittles_pickaxe" : "Skittles Pickaxe",
+  "item.examplemod.skittles_axe" : "Skittles Axe",
+  "item.examplemod.skittles_hoe" : "Skittles Hoe",
+
+  "item.examplemod.skittle_helmet": "Skittle Helmet",
+  "item.examplemod.skittle_chestplate": "Skittle Chestplate",
+  "item.examplemod.skittle_leggings": "Skittle Leggings",
+  "item.examplemod.skittle_boots": "Skittle Boots"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": [
+    {"item": "examplemod:green_apple_skittles"},
+    {"item": "examplemod:strawberry_skittles"},
+    {"item": "examplemod:grape_skittles"},
+    {"item": "examplemod:lemon_skittles"},
+    {"item": "examplemod:orange_skittles"}
+  ],
+  "result":
+  {
+    "item": "minecraft:sugar",
+    "count": 6
+  },
+  "experience": 1.0,
+  "cookingtime": 100
+}

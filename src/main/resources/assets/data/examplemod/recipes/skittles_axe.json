@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " x ",
+    " x ",
+    " i ",
+    " i "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "examplemod:skittles"
+    },
+    "i":
+    {
+      "item": "minecraft:stick"
+    }
+  },
+  "result":
+  {
+    "item": "examplemod:skittles_axe",
+    "count": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "examplemod:green_apple_skittles"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "examplemod:strawberry_skittles"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "examplemod:grape_skittles"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "examplemod:lemon_skittles"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "examplemod:orange_skittles"
+        }
+      ]
+    }
+  ]
+}
